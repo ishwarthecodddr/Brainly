@@ -12,8 +12,8 @@ dist
 dist-ssr
 *.local
 
-.bolt
-.md
+.bolt/
+*.md
 
 
 # Editor directories and files
